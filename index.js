@@ -3,19 +3,15 @@
 const boxen = require('boxen');
 const chalk = require('chalk');
 
-const details = {
-  github: 'https://github.com/jwu910',
-  portfolio: 'http://joshuawu.me',
-  twitter: 'https://twitter.com/jwu910',
-};
-
 const card = boxen(`
 ${chalk.bold('Joshua Wu')} | Software Engineer
 ${chalk.bold('-'.repeat(40))}
 
-${chalk.bold('Twitter:')} ${details.twitter}
-${chalk.bold('Github:')} ${details.github}
-${chalk.bold('Portfolio:')} ${details.portfolio}
+${chalk.bold('Github:')} https://github.com/jwu910
+${chalk.bold('LinkedIn:')} https://linkedin.com/in/wujoshua
+${chalk.bold('NPM:')} https://www.npmjs.com/~jwu910
+${chalk.bold('Portfolio:')} http://joshuawu.me
+${chalk.bold('Twitter:')} https://twitter.com/jwu910
 `,
     {
         borderColor: 'cyan',
