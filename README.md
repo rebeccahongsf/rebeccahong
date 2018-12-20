@@ -1,12 +1,12 @@
-##Joshua Wu
-
+# Joshua Wu
+My digital business card.
 ```
 $ npx joshuawu
 ```
 
 
-#### Special Thanks
+## Special Thanks
 Inspired by @vutran
 
-#### License
+## License
 MIT © [Joshua Wu](https://github.com/jwu910)
