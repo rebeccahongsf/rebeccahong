@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jwu910/joshuawu/issues"
   },
-  "homepage": "https://github.com/jwu910/joshuawu#readme"
+  "homepage": "https://github.com/jwu910/joshuawu#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
 }
