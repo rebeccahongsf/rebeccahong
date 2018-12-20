@@ -6,7 +6,7 @@ $ npx joshuawu
 
 
 ## Special Thanks
-Inspired by @vutran
+Inspired by [@vutran](https://github.com/vutran)
 
 ## License
 MIT © [Joshua Wu](https://github.com/jwu910)
