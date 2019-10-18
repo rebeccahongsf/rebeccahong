@@ -4,14 +4,14 @@ const boxen = require('boxen');
 const chalk = require('chalk');
 
 const card = boxen(`
-${chalk.bold('Joshua Wu')} | Software Engineer
+${chalk.bold('Rebecca Hong')} | Front End Developer
 ${chalk.bold('-'.repeat(40))}
 
-${chalk.bold('Github:')} https://github.com/jwu910
-${chalk.bold('LinkedIn:')} https://linkedin.com/in/wujoshua
-${chalk.bold('NPM:')} https://www.npmjs.com/~jwu910
-${chalk.bold('Portfolio:')} http://joshuawu.me
-${chalk.bold('Twitter:')} https://twitter.com/jwu910
+${chalk.bold('Github:')} https://github.com/rebeccahongsf
+${chalk.bold('LinkedIn:')} https://linkedin.com/in/rehong
+${chalk.bold('NPM:')} https://www.npmjs.com/~rebeccahong
+${chalk.bold('Portfolio:')} http://rebeccahong.me
+${chalk.bold('Instagram:')} https://instagram.com/doodledeveloper
 `,
     {
         borderColor: 'cyan',

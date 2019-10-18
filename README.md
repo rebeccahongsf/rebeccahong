@@ -1,12 +1,16 @@
-# Joshua Wu
+# Rebecca Hong
 My digital business card.
-```
-$ npx joshuawu
-```
 
+```
+$ npx rebeccahong
+```
 
 ## Special Thanks
-Inspired by [@vutran](https://github.com/vutran)
+Inspired by 
+[@vutran](https://github.com/vutran)
+
+And
+[Joshua Wu](https://github.com/jwu910)
 
 ## License
-MIT © [Joshua Wu](https://github.com/jwu910)
+MIT © [Rebecca Hong](https://github.com/rebeccahongsf)

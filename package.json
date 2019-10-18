@@ -1,5 +1,5 @@
 {
-  "name": "joshuawu",
+  "name": "rebeccahong",
   "bin": "./index.js",
   "version": "1.0.3",
   "description": "Placeholder",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwu910/joshuawu.git"
+    "url": "git+https://github.com/rebeccahongsf/rebeccahong.git"
   },
-  "author": "Joshua Wu",
+  "author": "Rebecca Hong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jwu910/joshuawu/issues"
+    "url": "https://github.com/rebeccahongsf/rebeccahong/issues"
   },
-  "homepage": "https://github.com/jwu910/joshuawu#readme",
+  "homepage": "https://github.com/rebeccahongsf/rebeccahong#readme",
   "dependencies": {
     "boxen": "^2.1.0",
-    "chalk": "^2.4.1"
+    "chalk": "^2.4.2"
   }
 }
