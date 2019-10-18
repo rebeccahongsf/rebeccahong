@@ -7,10 +7,7 @@ $ npx rebeccahong
 
 ## Special Thanks
 Inspired by 
-[@vutran](https://github.com/vutran)
-
-And
-[Joshua Wu](https://github.com/jwu910)
+[@vutran](https://github.com/vutran) and [@jwu910](https://github.com/jwu910)
 
 ## License
 MIT © [Rebecca Hong](https://github.com/rebeccahongsf)
